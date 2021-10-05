@@ -1,0 +1,19 @@
+{
+  "name": "githubintro",
+  "version": "1.0.0",
+  "description": "Learning Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoyanYstoyanov/githubintro.git"
+  },
+  "author": "Stoyan Stoyanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoyanYstoyanov/githubintro/issues"
+  },
+  "homepage": "https://github.com/stoyanYstoyanov/githubintro#readme"
+}
